@@ -1,4 +1,5 @@
-RateLimiter \n
+RateLimiter
+
 I chose to implement the rate limiter using the Sliding Window approach. Below are the pros and cons of this approach:
 
 Pros:
